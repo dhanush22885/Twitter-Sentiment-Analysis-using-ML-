@@ -1,24 +1,79 @@
-#Twitter Sentiment Analysis using Machine Learning
+📱 Social Media Sentiment & Trend Tracker
+📌 Project Overview
 
-This project performs sentiment analysis on Twitter data using Machine Learning techniques. The project analyzes the sentiment of tweets as positive, negative, or neutral and visualizes the results using various plots.
+The Social Media Sentiment & Trend Tracker is an end-to-end NLP and data analytics project that collects live text data from public RSS feeds, processes unstructured content, performs real-time sentiment analysis, and presents interactive visualizations through a Streamlit dashboard.
 
-Features :
-1. Sentiment Analysis: Analyzes the sentiment of tweets as positive, negative, or neutral.
-2. Pie Chart Visualization: Visualizes the percentage of positive, negative, and neutral tweets using a pie chart.
-3. Word Cloud Analysis: Generates word clouds for positive and negative tweets to identify key words and phrases.
-4. Weekly Tweet Analysis: Analyzes the number of tweets by week.
-5. Location-wise Sentiment Analysis: Analyzes the sentiment of tweets by location.
-6. Performance Metrics: Evaluates the model's performance using accuracy score, confusion matrix, classification report, and ConfusionMatrixDisplay.
+The project demonstrates practical applications of Natural Language Processing (NLP), data engineering, and interactive analytics, enabling users to monitor public sentiment and identify trending topics from continuously updated news and social media content.
 
-Technologies Used:
-1. Python: Programming language used for the project.
-2. Machine Learning: Techniques used for sentiment analysis.
-3. Matplotlib and WordCloud: Used for data visualization.
+🎯 Business Objective
 
-Results :
-The project generates various plots and visualizations to showcase the results of the sentiment analysis. These include:
+Organizations rely on public opinion to understand customer preferences, monitor brand reputation, and identify emerging trends. This project aims to transform large volumes of unstructured text into meaningful insights by automatically collecting, analyzing, and visualizing sentiment data.
 
-1. Pie chart showing the percentage of positive, negative, and neutral tweets.
-2. Word clouds for positive and negative tweets.
-3. Bar chart showing the number of tweets by week.
-4. Barplot showing the sentiment of tweets by location.
+Objective
+
+How can live textual data be analyzed using Natural Language Processing to identify sentiment trends, discover frequently discussed topics, and support data-driven decision-making?
+
+
+![Sentiment Analysis Dashboard](images/Dashboard_1.png)
+
+![Sentiment Analysis Dashboard](images/Dashboard_2.png)
+
+
+
+
+🚀 Features
+📡 Automated live RSS feed data collection
+🧹 Text preprocessing and data cleaning
+😀 Real-time sentiment classification
+🔍 Keyword-based article search
+📊 Interactive visual analytics dashboard
+📈 Trend monitoring and sentiment distribution
+⚡ Fast performance using Streamlit caching
+
+🛠️ Tech Stack
+Technology	Purpose
+Python	Backend Development
+Streamlit	Interactive Web Application
+Pandas	Data Processing
+NLTK	Natural Language Processing
+VADER Sentiment Analyzer	Sentiment Classification
+Regular Expressions (re)	Text Cleaning
+feedparser	RSS Feed Collection
+Plotly Express	Interactive Data Visualization
+
+🔄 Project Workflow
+Collect live news and RSS feed data.
+Clean and preprocess text using Regular Expressions and NLTK.
+Remove stop words, punctuation, URLs, emojis, and unnecessary characters.
+Perform sentiment analysis using the VADER sentiment lexicon.
+Classify content as Positive, Neutral, or Negative.
+Generate interactive visualizations with Plotly.
+Display insights through a responsive Streamlit dashboard.
+📊 Dashboard Features
+
+The dashboard provides:
+
+📈 Sentiment Distribution
+📉 Daily Sentiment Trends
+🔥 Trending Keywords
+🔍 Keyword Search
+📰 Latest Articles
+😀 Positive, Neutral, and Negative Sentiment Analysis
+📊 Interactive Charts
+⚡ Cached Data for Improved Performance
+
+💡 Key Capabilities
+Automated RSS feed ingestion
+Robust text preprocessing pipeline
+NLP-based sentiment analysis
+Real-time trend identification
+Interactive dashboard with filtering and search
+Efficient handling of continuously updated text streams
+📈 Expected Business Impact
+
+This solution helps organizations:
+Monitor public opinion in real time
+Track brand sentiment
+Detect emerging topics and trends
+Support marketing and communication strategies
+Improve decision-making through sentiment analytics

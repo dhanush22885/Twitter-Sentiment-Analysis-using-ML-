@@ -1,0 +1,26 @@
+Timestamp,Raw_Title,Sentiment_Score,Sentiment_Class
+2026-06-18 06:01:55+00:00,"Meta CTO reports employee morale is near historic lows, prompting leadership to propose boosting workplace snack budgets",0.1531,Positive
+2026-06-18 03:42:24+00:00,"AMD silently removes memory encryption from consumer Ryzen CPUs, leaving users unaware that they may be vulnerable — security feature vanishes after newer AGESA firmware, AMD engineers go radio silent when pressed about the change",-0.0772,Negative
+2026-06-18 03:40:15+00:00,"US pulls the 'kill-switch' on Anthropic's Fable 5 AI models, sending global allies scrambling — European and Canadian leaders alarm allies over sudden export bans",-0.34,Negative
+2026-06-18 02:03:39+00:00,Apple’s weird anti-nausea dots cured my car sickness | ﻿Vehicle Motion Cues let me read and write in the passenger seat without wanting to die,0.3498,Positive
+2026-06-18 01:18:23+00:00,"Tesco moving 40,000 server workloads off VMware amid Broadcom's “abusive conduct”",0.0,Neutral
+2026-06-18 00:45:47+00:00,SanDisk's new 8TB PS5 SSD costs more than three times as much as the PS5 Pro,0.0,Neutral
+2026-06-17 23:47:00+00:00,"Experts warn ""colossal"" breach exposes 24 billion records including personal info",-0.2263,Negative
+2026-06-17 23:28:03+00:00,"U.S. science is in chaos — Today the most influential private-sector developers of technology are in Silicon Valley, and their perspective on innovation is that it should move fast, disrupt markets and make money",0.2716,Positive
+2026-06-17 23:09:43+00:00,"Allbirds continues AI pivot with name change and CEO hire, sending stock soaring",0.0,Neutral
+2026-06-17 22:45:07+00:00,"After unveiling ridiculously expensive AR glasses, Snap's stock takes a dive",-0.34,Negative
+2026-06-17 21:46:22+00:00,"Apple to Raise Prices Due to Memory Chip Crunch, Tim Cook Says",0.0,Neutral
+2026-06-17 20:35:36+00:00,"Firefox has an ambitious new roadmap, the browser is also losing millions of users a month",0.128,Positive
+2026-06-17 19:35:24+00:00,Bezos: AI will result in labor shortages instead of replacing humans,-0.1531,Negative
+2026-06-17 17:05:24+00:00,"Only 16 percent of Americans think AI will have a positive impact on society, a new study shows",0.5574,Positive
+2026-06-17 16:40:13+00:00,"License Plate Cameras Will Soon Track Phones, Wearables, Infotainment, and Even Your Pets",0.0,Neutral
+2026-06-17 16:36:58+00:00,Illinois Could Become the First State to Ban Drivers From Wearing Smart Glasses,-0.2263,Negative
+2026-06-17 16:18:03+00:00,Mark Zuckerberg Orders His Employees to Start Having Fun Again After Brutal Layoffs Culled Their Colleagues,-0.2023,Negative
+2026-06-17 16:04:23+00:00,OpenAI made $13 billion in 2025 and lost $21 billion doing it,-0.3182,Negative
+2026-06-17 14:51:09+00:00,Kaspersky says hackers are distributing malware via anime girl wallpapers on Steam Workshop's Wallpaper Engine,0.0,Neutral
+2026-06-17 14:08:30+00:00,ICE Appears to Be Buying Immigrants’ Tax Identifiers from a Data Broker,0.0,Neutral
+2026-06-17 12:42:58+00:00,"MIT Study Finds Gas Cars Aren't Secretly Better For The Planet Than EVs, Despite What Everyone On Facebook Says",-0.3412,Negative
+2026-06-17 10:58:42+00:00,"Pentagon used Grok AI to fire 2,000 missiles at Iran, official says",-0.34,Negative
+2026-06-17 08:47:44+00:00,Millions of Copyrighted Songs Were Fed to AI Music Generators—Now There’s Proof.,0.0,Neutral
+2026-06-17 07:51:02+00:00,"Rumour: Gaming Industry 'Bloodbath' Imminent, as Sony, Microsoft, and More Brace for Mass Layoffs",0.0,Neutral
+2026-06-17 07:00:20+00:00,Meta's CTO says morale is almost 'the worst it's ever been',-0.5888,Negative
